@@ -1,0 +1,9 @@
+{
+  "name": "yarn-lock-always-regenerated",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^3.5.7"
+  },
+  "packageManager": "yarn@4.8.1"
+}

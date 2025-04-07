@@ -211,7 +211,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:^3.5.7":
+"vue@npm:3.5.7":
   version: 3.5.7
   resolution: "vue@npm:3.5.7"
   dependencies:
@@ -233,6 +233,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-lock-always-regenerated@workspace:."
   dependencies:
-    vue: "npm:^3.5.7"
+    vue: "npm:3.5.7"
   languageName: unknown
   linkType: soft
